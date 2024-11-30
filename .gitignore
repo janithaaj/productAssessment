@@ -1,0 +1,56 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Mac System Files
+.DS_Store
+
+# Debug Files
+debug.log*
+.vscode/
+
+# Generated Files
+/coverage
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Bundler Files
+/vendor/bundle
+*.gem
+.bundle/
+
+# Metro Bundler
+.expo
+.expo-shared
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary Files
+.temp/
+*.tmp
+*.swp
+
+# IDE Files
+.idea/
+*.iml
+
+# Other Generated Files
+.env
+.env.local
+.env.*.local
+
+# Testing
+/jest-test-results.json
+
+# Lock Files
+*.lock
+package-lock.json
